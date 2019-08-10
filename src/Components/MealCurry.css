@@ -1,0 +1,40 @@
+#mealCurryMain {
+  width: 40rem;
+  height: 8rem;
+  border: solid 1px;
+  border-color: darkgray;
+  font-family: Helvetica;
+}
+
+#imageCol {
+  width: 5rem;
+  height: 7.5rem;
+  margin-right: 1px;
+  margin-left: 20px;
+  margin-top: 3px;
+  border-right: solid 1px;
+  border-right-style: groove;
+}
+
+#content {
+  margin: 3px auto;
+  margin-right: 3px;
+  margin-left: 1px;
+  border-right: solid 1px;
+  border-right-style: groove;
+}
+
+#curries {
+  text-align: center;
+}
+
+#price {
+  margin: 3px;
+  text-align: center;
+  margin-right: 30px;
+}
+
+#order {
+  margin-right: 3px;
+  margin-left: 1px;
+}
