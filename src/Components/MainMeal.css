@@ -1,4 +1,8 @@
 #mainMealContent {
-  width: 40rem;
-  height: 35rem;
+  border: solid 1px;
+}
+
+#mealTime {
+  font-family: "'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif";
+  color: rgb(45, 185, 80);
 }
